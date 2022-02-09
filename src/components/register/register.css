@@ -30,7 +30,7 @@
 .registerButton {
     margin-top: 20px;
     cursor: pointer;
-    background-color: turquoise;
+    background-color: rgb(26, 29, 29);
     border: none;
     color: rgb(33, 19, 153);
     border-radius: 15px;
